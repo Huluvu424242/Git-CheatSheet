@@ -154,6 +154,9 @@ Fetch the latest changes from the origin and rebase
 Push local changes to the origin
 ```git push```
 <br>
+Remove connection to origin of local repository
+```git remote remove origin```
+<br>
 ### 🧾 Logs and History
 Show commit history in single lines
 ```git log --oneline```
